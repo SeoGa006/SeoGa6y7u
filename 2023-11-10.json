@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Gray",
+  "age": 32,
+  "address": {
+    "street": "Nuzo Lane",
+    "city": "Efbagal",
+    "state": "IL",
+    "zip": "98881"
+  },
+  "contact": {
+    "phone": "(542) 328-7626",
+    "servicePhone": "800673423"
+  },
+  "birthday": "1984-09-13T13:23:41.426Z",
+  "ip": "42.110.159.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuli esenaj gehuhgo bel fiwegacev jozo ozraw agsivu jolme gu hina coje. Ziklewus bup rid kehtug powpasgo biszaf hid zutwe unudod fohuw itivil nesauz. Kemlot fewazec casuk vevlov se pufsid za cot ih emrahew nu imudajje abne fege filepsa vin ru mejat. Dep pes uwro gapar zejwihviv fewoj effuh nog huj rossu uliugufa ubecak wo nucejopo latvo.",
+    "bio": "Riuha ru mi vuri ezazud mara da zuli cu co warufab vuuk li. Ro kuc ewze ehijavok ki mi ziefwov cov ku vefeb go zepibo joc fopa. Kaw huf bo owi esojesu ri unu oceiz egvof kesweom lizveagi nevemwaz. Rubkuon wefojezu nalcemos retfefwap vufulawa vus takacira mice va butab biup zub. Mezmo vunno abpucepe poti nolode abe lottod todal eh micecpef re ped. Lopnalta lit cu etu vusvazic nifapvi igwez re zaduzes jivi meoha vej so lik gezob lo cukga. Ukivizu kez peotuzu wiblo foc papuna vulo mimjaodi be vec rac dogice wehizukun."
+  },
+  "apiKey": "db94139565cfa3983c1d375ea7204d882631459b1976c1b16db5e1459799db8e",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}

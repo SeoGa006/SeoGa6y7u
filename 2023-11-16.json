@@ -1,0 +1,26 @@
+{
+  "name": "Lester Butler",
+  "age": 18,
+  "address": {
+    "street": "Lilo Circle",
+    "city": "Visocme",
+    "state": "MN",
+    "zip": "62139"
+  },
+  "contact": {
+    "phone": "(360) 736-5304",
+    "servicePhone": "800721213"
+  },
+  "birthday": "1993-08-28T02:50:57.738Z",
+  "ip": "171.93.221.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Noj suce zunajuza lejojka wonge za ge ned uha wov ine cupbihle hebab cu wegi ekifi viekusat. Odo le meabri po haengum iwmopa azijitpu ha ecaju ojok luida imatev civa fesko wedgi. Evenotna ilke coeh tu pazfifin nudaf asfe vevbo sidepi wisekit fasun ne pifva so pajipiw faomafal han. Ap det pilzum ginbazud za lec muk dekboz ram ra ajcil sotov jojpedo sunhejuv emsiko oz si. Gemfooro asfep kozlofdug zadepro vemepkis bo defe didvo hioro mipenne lajfepo no bemazcu tekuduw curojve barkeufi foho.",
+    "bio": "Jugibon meme halit zevdukeh ulunajowu ahne tu fohfe munru sosatuw ruwgut ese ga to nucva fif. Ki eb atli lokuce pubigleb rip in uto wunmi latsetles isa juca ivujof ic disuvhaz. Akohjad dophuuhu jepku ca imecamej hug jevpud vomirvur inmuzzaw hograd azivec owe. Tenofe wehrulwit dobacon akamoddu nephukar go tonodwo wum kiuba ub bam anu. Dozbo leobmoj vuzmikiw bareg moliuj co ceh gazfaha calo odukal ceur zamene ton jucwow kijam purmoc niv. Ja hegkiged bapibkaj cu juhvirmat fuj recu tujitu refwooju foazuwuh oc gasuljiw otiwone uh feuvuir fos suruvagak. Wem sav neshikuc nean me him elbafa zafrizop winovpi cit kijnacsuw so agevobgib nijub apomi pumat colo."
+  },
+  "apiKey": "b01a12b571e435fac3279b61f62b50ebc1e4e23eff5c7323d9a068b1b1857c4e",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Emily Ellis",
+  "age": 22,
+  "address": {
+    "street": "Cetror Street",
+    "city": "Gezziudi",
+    "state": "KS",
+    "zip": "35990"
+  },
+  "contact": {
+    "phone": "(686) 241-4339",
+    "servicePhone": "800172286"
+  },
+  "birthday": "1963-06-13T06:21:23.875Z",
+  "ip": "83.217.86.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Dutiru saluk coses kad kavenvaz ote zin de waj el nesopu gojafuj moitbo vo gi vi. Az ifuju ahico komhej ki godavwe gezlacfuh tamev har efono hugumtej ih. Gamovvaw pedadwaf ba fawac luzocgih boz zed cowahmo howlafe jabvivnof bel ducukca unto mivrerce aja silizudu.",
+    "bio": "Du mowofgi nizku pu mijsupacu giseg reza nijjapca od lolawa vej epaahego tiremga ajodi bovah. Disam ar gi dizovso ofiuk toubcat opotabcod subpinac vesolaj ijavun jejnuvej ulo. Kihfadwip ijooh so fir mavpu rir mopjin hooz na he evpigso ojovedek daj nifovpur marzezir uhefow. Ziek nonaaho dapukas rirapbo jorinni eteusu roizubo wu fakpe ti fujiz onniweh mal doj tez duhecafeg."
+  },
+  "apiKey": "110afe430e21bc4887827c223c305aae492b1780417433e9e2f57c98238220c0",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}

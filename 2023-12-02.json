@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Rice",
+  "age": 44,
+  "address": {
+    "street": "Johjo Lane",
+    "city": "Ocimeoz",
+    "state": "WI",
+    "zip": "65146"
+  },
+  "contact": {
+    "phone": "(573) 502-2267",
+    "servicePhone": "800979455"
+  },
+  "birthday": "1972-09-07T12:51:36.816Z",
+  "ip": "131.14.137.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Ji vej lan buama fet mam mezpu le metik ca fec ha zo mibucdo en. Fa hude mub bupafzow po zo fapo haboziuwa jumiw tepdeov nidu ta. Kadok lov tow sono zozen nefibfo kegejca naf ozow mim ziztuhaz kopu. Ti ig ba homripkad jahepuji dol merzuebe ite us dej pucmu ehubo utboz bafwoz.",
+    "bio": "Vaal teaw irejedu regvu liilo fimila zupis umze rizob pidil ujopopom acu wovpem. Po van ru tahefa gifzow dan pamoteifu biobezej fil ham jejemo mo onmapmu cev. Siharnu uwi susevaoso bekavu aci gecutvif bactob dad tir saazavok urvug gunzo vi henpew mas dahlaggoj jafe. Iz wehzuzva vo wudhehup zuzil wis ne rat si dif mofguhu wu hatiweh deeto julnafva gobojodaj ol. Zuej ok sovo wucucji ciw uwi kuzzevvij viwse ic kufic zeren pir asiba lugne. Ekute lum zokaov rinvak pizwil jas pidigwi agonuajo hapfafar zuof focnifgi cicisfi ebof avohecjip nawrat jofutew salawrik fub."
+  },
+  "apiKey": "fe5edf7e63582ed9590fb2b9a2e79132c71a5db985f34358a69291886e943c53",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}

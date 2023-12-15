@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Alexander",
+  "age": 45,
+  "address": {
+    "street": "Focoz Park",
+    "city": "Cilejom",
+    "state": "NY",
+    "zip": "87951"
+  },
+  "contact": {
+    "phone": "(212) 515-9781",
+    "servicePhone": "800679674"
+  },
+  "birthday": "1961-05-16T17:58:46.954Z",
+  "ip": "153.181.250.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Nobuvha sefod libfefop tibes ada eha mujnu fotrezki fakuw kiaco soazoco odetote ru. Kaffad refna no uja uzo mak gonedec funav camdibuw liwti oseem kopta voje hurlepi aslo imge newelgo tefij. Wualaujo vef ahuude naivewat tut nobjugwa rujuhifa kibuvli beop lo vizudo abjuded.",
+    "bio": "Wekegom jahnossen kivdul venmim ivjut nu safzaz sobpina gagempij tow wozi alu kij deegzu eko pigaz. Puwijju gu pieg ildu pihowo sefihde istemsel wipgi fumup dirmi gusmeza walgedvi bo fumgap ja iwu hiat nige. Levruli hevkuhgi noahe bunuteole votid si wulisuf egme rid uf la mowcu it rojus pu umnowjop corwecwoj. Co gokwacuh igopotoz mezoboz ukitco lusektuz pousrok icitut jirezo je eluimijor he ruwa feebka vifjon fugdeoci pik tam. Ekoezi dowhup dar dovfeggu osiem lu pawugo jejara palbiom cuv zihujoz bugjiek duvadi. Ekicab lo lanadi mojse dopsanal sejo ketweraw kincuwij madiwrup roldi tiwwuz kejpus ji ifowoij dolwew war."
+  },
+  "apiKey": "eb2148816236fa8e7a0740fbff47c1eff11725644d067fd290a3f25c27b912a3",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}

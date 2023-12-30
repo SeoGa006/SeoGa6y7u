@@ -1,0 +1,26 @@
+{
+  "name": "Steven Reynolds",
+  "age": 25,
+  "address": {
+    "street": "Suler Extension",
+    "city": "Bezuguju",
+    "state": "NV",
+    "zip": "53480"
+  },
+  "contact": {
+    "phone": "(416) 372-9188",
+    "servicePhone": "800979194"
+  },
+  "birthday": "1983-12-04T03:47:08.101Z",
+  "ip": "160.175.60.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihhuhu nepu evevocav te zit docjit ezu ramguggap dud toheb vohvij inasini. Go wezlal aze nitjug kegwe laobo esepan nuh asekifaw wi fuwi dipvowe an kahi hame weejolos winmetfu gifpag. Fam sanoel fogteb guhadeho es hu vito nuh luzegapa tuabfi zozemofu jeedi osumop dow.",
+    "bio": "Nepidi wehug casuc keazo ufdobi tuba to ika votilud did zeloj apbucsiv adtiwub. Gowbe hulasaso gigraece ke ju cos lejla cituzo te heloz ijiegu nohro an ufe retteov jilcima jiap irire. Ca ul idapiz lona bujses podmeliz cege puuw ge zomnuvuf parti azwu sajmav ojko himdewfi nuk ziwku."
+  },
+  "apiKey": "f4e7b9749d40c87aaf4108ae04d0a54a21f11f52e8d9dd42c314c8bb6b9a13c1",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}

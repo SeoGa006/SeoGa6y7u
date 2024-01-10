@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Boone",
+  "age": 41,
+  "address": {
+    "street": "Siko Key",
+    "city": "Agwapuw",
+    "state": "MI",
+    "zip": "98887"
+  },
+  "contact": {
+    "phone": "(284) 377-2070",
+    "servicePhone": "800718561"
+  },
+  "birthday": "1973-12-09T03:10:02.073Z",
+  "ip": "150.185.122.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Vefis me anusu zob on amep ke jigcac ipfemova nis bo dapnosok tazti. Bagbe bup abfa nu lecduk hicakev agisazib sofzohij negejzag oj fimkeeze hacvefo. Hidsooru uhuodvo ahpees hon viilsur udusehci ugu nud cij amsucup ut dizlo ji imuwna okohe afa.",
+    "bio": "Zafek ku binzeso jicimeva ona subsiz rowwuzeg wif geg pu mez ip otupav susgebiv okeazonon mudep si mak. Webju ra afakegi ufiho nadtud su sujihupub vutfu kahivol zucgazo zunkip anopug. Fo tucne in zer uwcu hoszecjaj voigra ganrucsan kajwozdi cof kezakij utuzav. Pisribel zojo ne vigore etatih fipor opero geztutfev pikaf ud top zih arav. Kamkol jethek jumoimu ot ubiecita ir jasfa pano eficgop je acufidci deveni viluwgak bewikmu wojjil ej hajean. Popru gulbo cuc oblug to uwubap tujigo bib vafoume godpo amkum fe gorle zesit isemaba."
+  },
+  "apiKey": "680c64020a2c09a9a12ae1b07249942f406badeb7a72b9778736a18c1657e586",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}

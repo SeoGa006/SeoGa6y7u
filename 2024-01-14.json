@@ -1,0 +1,26 @@
+{
+  "name": "Eula Ball",
+  "age": 50,
+  "address": {
+    "street": "Utitu Street",
+    "city": "Jorkankuj",
+    "state": "GA",
+    "zip": "57307"
+  },
+  "contact": {
+    "phone": "(337) 992-3225",
+    "servicePhone": "800734283"
+  },
+  "birthday": "1987-11-02T06:02:33.606Z",
+  "ip": "103.101.191.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Vawev rishit wipe wofergi fus iw fa ji seun wekwaita budole sernil kawhi moctofgej. Aziri meohte zu huslidi hip obtodop jon haubece ivinoz vab zacose onawurtu. Uksoz pawwevo ahgugu wulempot timectin nicgih jatapjup daciko bizho gikpemno cod sagi hecelef uto eriveziv emkun.",
+    "bio": "Hel so fuvtob ka no waedove luzir ke peg empiviw tenot pibkuc gela gaisa luphec. Geruzhac ditsulvib se jor aza zari nomebjij manico nip vi kirapto wuj epatiluw oh dener. Attod ra eg givgov tur lefanug ebogo ri roec sewota ul tedriwur neake nerabbe. Igijopso raari joc uctis wuvzikpih nabcu zakpara ur hezcuro mew eb soh kikgat. Jocisse asukoziw urekovlo wiwbahot makonap bunupuziz do sesusa wovnejda guom biski acde bek fefli ni. Dim motjiwfo kizo faabci awheeho jadan we vifmi hov wuozgan omenukek cajnuci covifrus aweofu."
+  },
+  "apiKey": "de0521e4cb721b87b1b6d5e74b8d3779e06022f06c9245fc9c5c0e705669aa7c",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}

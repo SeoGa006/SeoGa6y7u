@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Davis",
+  "age": 30,
+  "address": {
+    "street": "Diben Grove",
+    "city": "Albupew",
+    "state": "KS",
+    "zip": "21959"
+  },
+  "contact": {
+    "phone": "(486) 506-2356",
+    "servicePhone": "800385255"
+  },
+  "birthday": "1984-09-19T00:25:51.469Z",
+  "ip": "148.153.193.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Withowhe zawwisa cejohig di sorajke ki ji jig obofi miw vureha pavzel kefem ire bojeted mamujapa. Seot cebbec coksicuh po bi jolejlon icadubu lupik mi sugto towejnuw jurew liva nujus camov cuifja vew. Wolimjac nunez bo vombe mi letege domvu ori kikjipica zaemefis dol hu.",
+    "bio": "Sur mota ofizos zeglavat musig kaladrah onipegze zohowo munowom ku ecavlug ka uk movej li. Cumbevwe kenum zegewnu sodaw kigwehu lim jalsefovo cop ponospeh kokwe nizceeh isga zofas. Uvbeh iko dev vogoiju hekub voedi tomvokke mej caw dev guwuhiag ko itavu. Hozpot zibam laso na jusa fit zoik houh ludawif acaofu teena kukte tuifoiz iz ce ahofib fakohi."
+  },
+  "apiKey": "0c81f269ece8d2409484a50662c9bc5fe333335efe0bed34fa2257ad4b2ae30e",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}

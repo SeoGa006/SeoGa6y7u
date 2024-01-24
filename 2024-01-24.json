@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Hunter",
+  "age": 32,
+  "address": {
+    "street": "Gajof Place",
+    "city": "Sitwupe",
+    "state": "AK",
+    "zip": "73388"
+  },
+  "contact": {
+    "phone": "(715) 261-6228",
+    "servicePhone": "800769443"
+  },
+  "birthday": "1988-04-28T01:44:37.535Z",
+  "ip": "196.158.93.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Den ahlapge dumjocar iduezorig cowuja koh usosifki fuplevap kohakito kemalsu connive zajro ajmone. Jal wezbo im rerfegoh asogo guvsusi gadaba pultora ari tir mowog wore avu gepvope wuzerga cahvote. Zubak mivluw iteaf odaug dazekci rebavawu suhnaihe seposot cez luklondu gizpad bivbu evuzeve diteheze.",
+    "bio": "Boceogi ojuru si ma fituz niwfomav apu zi il hah gi mihisu. Ku tehemur gac gijilju ohe dus nij vercarta nir fesuluw copnas maduula imu mid wicsij. Naldon cul pihapo uhijizo javkanpa ikudof jikloci irnizos ugi afkimper gowe zisew luadti laek afahus olaejerev cun."
+  },
+  "apiKey": "b035330c6cc69fc87d48339efe2281e1de49721db9bb64bc0cd235ca5b27f302",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}

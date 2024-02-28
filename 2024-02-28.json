@@ -1,0 +1,26 @@
+{
+  "name": "Jane Fuller",
+  "age": 36,
+  "address": {
+    "street": "Lapnep Loop",
+    "city": "Kohifoelo",
+    "state": "NE",
+    "zip": "62264"
+  },
+  "contact": {
+    "phone": "(322) 406-5125",
+    "servicePhone": "800667777"
+  },
+  "birthday": "2006-05-03T15:34:27.678Z",
+  "ip": "111.69.213.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Busvi lar firnab izume zuz harfi edulunuz capnapa bos puc mu utahuobu kinsuj dod. Juwfe ak taap linmimvin ac ubjil kojkickim oge sa tauc uf pinnafa katko zidamma meud. Razuk de luro mes jo himdatruv cevhivim hew orpim izsaba jinov mi.",
+    "bio": "Ozu casrenpaw eca lubefo geufi ho isa efo fakaja umca orojoora aze camsu sokiwzor. Joh segcaze ulore jonsadli mef ogpom gadfiwe mabi koj rez ro sakokufew. Ahaga jow kabun ekkaro fepgukri hivawun ufvurom folina cope timomriw agovif biv jeuw. Ra pow piwooh obuojo pupit fopbe soh if vevad hehpacheg cidmazmop ig nek bop he."
+  },
+  "apiKey": "c8d70680a25fda0e85a53ff8ffd42425a7c99bd323e61e49ef893a2950ee48c7",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}

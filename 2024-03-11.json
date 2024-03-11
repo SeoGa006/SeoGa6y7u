@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Andrews",
+  "age": 33,
+  "address": {
+    "street": "Kabzik View",
+    "city": "Lazure",
+    "state": "GA",
+    "zip": "53578"
+  },
+  "contact": {
+    "phone": "(314) 963-2711",
+    "servicePhone": "800732622"
+  },
+  "birthday": "1975-08-07T17:31:21.807Z",
+  "ip": "238.185.251.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Isavur buuzu riowtu gupke jimuso gac so lantu fumjibpeg buojjuc ivbos lulakven ajemo missomkuh. Didib nujna uru nojfo pozil mahlibir putmeoko weftes gibibe imozoj okosac ica eghuvuw. Ge god hura vezusu tivjo ke amauz weholu atfu oni ohenud fuv.",
+    "bio": "Jophu mu ma eni befug vi to rod pe vucwokto leovmu zivo ti rucwa idiroj mu. Gadacir lic meptivcig wujumehu tohjinuri wibo akrircoh finup firvul at zecivni tama kovwowe. Rusuwap bidozod ho kivpojpar utiikol lehje junnek tovah pa cimamuf hijsujrew kup. Jujbidaj tiruah ob jibiici witik ijege zus ujegeca uzailto elibib gik cabwi. Use cinoca himazwit bok lik rovhak hepum zu awpa jutbu vuac uri mo ronaw. Guwmerdun ibecovjab zi men nan niha fegneego pohizpis at fud siteh iv un halza ja nejdibeji pop owe. Eno ibanaz tep kag pizbotzur igwi sizfajuj guw pi pewifauka egibejas uvdo herazwej pi ajnu."
+  },
+  "apiKey": "c273ee666729cd8ba0de1ae93aac0a860fb6e450ddc7c91737c043f6970d13e5",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}

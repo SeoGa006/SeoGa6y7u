@@ -1,0 +1,26 @@
+{
+  "name": "Clayton Thomas",
+  "age": 54,
+  "address": {
+    "street": "Nubik Mill",
+    "city": "Bepwazte",
+    "state": "IL",
+    "zip": "91863"
+  },
+  "contact": {
+    "phone": "(421) 389-9802",
+    "servicePhone": "800973359"
+  },
+  "birthday": "1973-10-31T21:45:05.491Z",
+  "ip": "233.77.188.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki wo ri mihi ze omi wihalta ikorazoh hepilkab podeote ibkuf josozi tavesuru gufhozrec vogisle. Jumwowmol mowap wehkauka vajmoz hav dok hibufrel ju wozuvo apewoc uloehajo jeh. Nowwi teccu milfus voj sozbefok uzkomha piwo dicet duutu morsipuv hoc ickorsi.",
+    "bio": "Vossifdu opaojo fak dasku har bu roni ojubo evi fir vojzol lud higi todruc febizgi pu apdibpap suregu. Vefro aj cegophu kimuti jehdoloj nes foubise nibefmi huokwe ri cutoj wijri pef ta garek ha hizo ekesowjo. Gokanot acajuk cezozka liho bolnesvuj zejemar majga amoma orsak ewvuhuc tugsi wum febe ulfa."
+  },
+  "apiKey": "96a9fbdc77882c52fea1682a9dc062a69b85cbb92217bb0c97c094dddb5655cc",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}

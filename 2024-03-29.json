@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Moody",
+  "age": 24,
+  "address": {
+    "street": "Zufek Lane",
+    "city": "Zumuaba",
+    "state": "NC",
+    "zip": "30301"
+  },
+  "contact": {
+    "phone": "(338) 908-4246",
+    "servicePhone": "800528276"
+  },
+  "birthday": "1962-04-13T04:34:46.123Z",
+  "ip": "154.171.148.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Gosi famti ufcoc saivo aldadgaf tiznahu omfo omuvo ba juke gefiraze ud lidbonom owocub tit. Feb usizi vetsof lodod siaweji ematu moveltuc tazca fumna budiwiw ti jate zaded. Nimremjo ehhabfa awowunji ju gef en ka ijajiztar tab babcak ecejugen cerbez le cirefehu. Vi ama cakawtej bonicgu owtafi taz co jija ha ikemo urapiako vipigo ne ag tolij satduc. Ketizad ra gatinu gidset dingec juji hi do kicvor suga agi wutapiv li to ugvijile ikizigeg dindi gir. Zoulcad uwuacino becsis sifagnef dataje saakta kip vuwho esailonaj wunlitab jonlod levogo wodrafa.",
+    "bio": "Bamukfum ze rorasnut hul dib te pamretceh conmu binef doszelom tascib lu dublo bu tow ru jodumlu. Uzeva butkotro he ka waj huvupcuh fuiniab tawfoij gufgu uvocnek bap zibi esi asumuos weehowaf buvutaf. Gejcaheri gicuga jimif eviulaina ariwaswu ku log hep vi pu diweego lecu itebo bamizuva regpecji mez ra."
+  },
+  "apiKey": "91cb3c59e328c082c15139d183080c25257e20498131ef13e06959cb82d4190e",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}

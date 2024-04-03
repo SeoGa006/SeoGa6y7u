@@ -1,0 +1,26 @@
+{
+  "name": "Marie Grant",
+  "age": 49,
+  "address": {
+    "street": "Cossic Path",
+    "city": "Fakuni",
+    "state": "VA",
+    "zip": "45273"
+  },
+  "contact": {
+    "phone": "(358) 791-3053",
+    "servicePhone": "800846369"
+  },
+  "birthday": "2002-05-21T05:13:50.192Z",
+  "ip": "43.2.125.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozfog jihozziw pah kekug ah jamtar puvapfa majel favmun vurkurjup lezaw fuwezah. Gorivauz nudoeje subnecho icomoda apaogi ep jelul zaviho deruwe ge si pekko upu vitok. Jef jag rutu jiniaku aco bip so tetvawi cuvisep amorasce ravdop og dov en. Goghakjen mesiwgec vodufwor di jiuje fa asi useju imu ulko icako paflug eci mulvihe ta ufo tamva. Wukubwa diijaunu asi howrohsuw dikzu tag lobwepe lahov gike hoseza kew ido poc pufa ma pulipa.",
+    "bio": "Anu uh ibilavlit ajicij wogek diluw davaif evadozu tutte afo mehozul mef curefa ikesu pit ler nos tu. Polezsa sehpuz mu didacuge juftiv ek rovhosodu on fu afisekdog fogce gakdovwec seevesi lozamu wegip bajeknir toj. Negsas kiafo lazbavu mi zuoteoci kutiw vipob nihivfe pejhoj sucsoh ti juv. Hak li pipnotpe hijem siza ovpe aseabepu bilago bu lubuzgoh hukre ne inedif va. Urkerawe zabjowe efu oruva imomezmi enufi epazihab peiva rus gu de kottirum."
+  },
+  "apiKey": "dfd8b1daec5457d0b827fb64b39499de03df4b6c90e38c22f33ab024096c2ea7",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
